@@ -1,0 +1,26 @@
+{
+  "name": "霂黎拾光小记",
+  "short_name": "拾光小记",
+  "description": "本地优先的生活记录、学习、玄学资料、爆款拆解与简历信息库",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f3ef",
+  "theme_color": "#7f9b8f",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
